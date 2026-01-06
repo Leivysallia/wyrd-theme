@@ -1,0 +1,17 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ensure Windows batch files use CRLF in the working directory
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Ensure Other text files use LF in the working directory
+*.json text eol=lf
+
+# Ensure shell scripts use LF in the working directory
+*.sh text eol=lf
+
+# Mark specific file types as binary to prevent corruption
+*.jpg -text
+*.png -text
+*.webp -text
