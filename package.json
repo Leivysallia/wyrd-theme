@@ -1,9 +1,9 @@
 {
     "name": "wyrd",
     "displayName": "Wyrd",
-    "description": "Theme based on Flatland Monokai Improved",
+    "description": "Theme based on Flatland Monokai Improved by asokawotulo",
     "license": "MIT",
-    "version": "0.2.2",
+    "version": "0.3.1",
     "publisher": "leivysallia",
     "engines": {
         "vscode": "^1.19.0"
@@ -14,7 +14,7 @@
     "scripts": {
         "build": "vsce package"
     },
-    "icon": "icon.png",
+    "icon": "icon.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/Leivysallia/wyrd-theme.git"

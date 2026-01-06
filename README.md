@@ -1,2 +1,2 @@
 # wyrd-theme
-A vscode theme based on Flatland Monokai Improved
+A vscode theme based on Flatland Monokai Improved by asokawotulo.
