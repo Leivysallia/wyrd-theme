@@ -5,9 +5,6 @@
 *.bat text eol=crlf
 *.cmd text eol=crlf
 
-# Ensure Other text files use LF in the working directory
-*.json text eol=lf
-
 # Ensure shell scripts use LF in the working directory
 *.sh text eol=lf
 
