@@ -1,4 +1,6 @@
 **/*.vsix
 .git
 .history
+.vscode
 .vsix
+.gitignore

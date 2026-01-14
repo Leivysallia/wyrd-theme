@@ -58,6 +58,38 @@
     },
     "tokenColors": [
         {
+            "name": "YAML - Tag Name",
+            "scope": "entity.name.tag.yaml",
+            "settings": {
+                "foreground": "#f36565",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "YAML - Float",
+            "scope": "constant.numeric.float.yaml",
+            "settings": {
+                "foreground": "#8eee55",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "YAML - Integer",
+            "scope": "constant.numeric.integer.yaml",
+            "settings": {
+                "foreground": "#00eeb3",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "YAML - Begin Document",
+            "scope": "entity.other.document.begin.yaml",
+            "settings": {
+                "foreground": "#ee88aa",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
             "name": "Comment",
             "scope": "comment",
             "settings": {
