@@ -90,11 +90,19 @@
             }
         },
         {
+            "name": "Comments",
+            "scope": "comment.line",
+            "settings": {
+                "foreground": "#53796c",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#755e5e",
-                "fontStyle": "italic bold"
+                "foreground": "#53796c",
+                "fontStyle": "italic"
             }
         },
         {

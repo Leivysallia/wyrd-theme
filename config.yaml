@@ -1,0 +1,31 @@
+---
+# --- A Sample YAML File ---
+# Basic Key-Value Pairs
+user:
+  username: john_doe
+  is_active: true
+  member_since: 2024-01-15
+
+# A List (Array) of items
+languages:
+- Python
+- JavaScript
+- YAML
+
+# A Nested Structure (Dictionary within a Dictionary)
+address:
+  street: 123 Main St
+  city: Anytown
+  zip: "12345"
+
+# A List of Dictionaries (Objects)
+projects:
+- name: Project Alpha
+  status: completed
+  team_size: 5
+- name: Project Beta
+  status: in_progress
+  team_size: 8
+
+# Inline Flow Style (less common for complex data)
+tags: [ config, data, example ]
