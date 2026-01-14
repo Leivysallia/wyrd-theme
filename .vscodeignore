@@ -4,8 +4,7 @@
 .history
 .vscode
 .vsix
-config.yaml
 flatland-monokai-improved-master
-hello-world.py
 icon.png
 screenshots
+.tests
