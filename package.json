@@ -3,7 +3,7 @@
     "displayName": "Wyrd",
     "description": "Theme based on Flatland Monokai Improved by asokawotulo",
     "license": "MIT",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "publisher": "leivysallia",
     "engines": {
         "vscode": "^1.19.0"

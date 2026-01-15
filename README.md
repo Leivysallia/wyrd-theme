@@ -8,16 +8,16 @@ A vscode theme based on Flatland Monokai Improved by asokawotulo.
 
 ### Python
 
-![python](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/jpg/python.jpg)
+![python](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/optimized/jpg/python.jpg)
 
 ### YAML
 
-![yaml](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/jpg/yaml.jpg)
+![yaml](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/optimized/jpg/yaml.jpg)
 
 ### json
 
-![json](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/jpg/json.jpg)
+![json](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/optimized/jpg/json.jpg)
 
 ### PowerShell
 
-![pwsh](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/jpg/ps1.jpg)
+![pwsh](https://github.com/Leivysallia/wyrd-theme/raw/main/screenshots/optimized/jpg/ps1.jpg)
