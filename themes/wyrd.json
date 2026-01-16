@@ -58,6 +58,62 @@
     },
     "tokenColors": [
         {
+            "scope": "variable.other.readwrite",
+            "settings": {
+                "foreground": "#00cf80"
+            }
+        },
+        {
+            "scope": "punctuation.definition.variable",
+            "settings": {
+                "foreground": "#b63a3a"
+            }
+        },
+        {
+            "scope": "support.variable.automatic",
+            "settings": {
+                "foreground": "#ffa66b"
+            }
+        },
+        {
+            "scope": "support.variable.drive",
+            "settings": {
+                "foreground": "#fcff67"
+            }
+        },
+        {
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#ffaacc",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "keyword.control",
+                "keyword.operator.unary"
+            ],
+            "settings": {
+                "foreground": "#c5315d",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": "keyword.operator.assignment",
+            "settings": {
+                "foreground": "#ff009d"
+            }
+        },
+        {
+            "scope": [
+                "variable.other.member",
+                "variable.other.property"
+            ],
+            "settings": {
+                "foreground": "#dcdcaa"
+            }
+        },
+        {
             "name": "YAML - Tag Name",
             "scope": "entity.name.tag.yaml",
             "settings": {
@@ -114,19 +170,12 @@
             }
         },
         {
-            "name": "Double Quotes",
-            "scope": "string.quoted.double",
+            "scope": [
+                "string.quoted.single",
+                "string.quoted.double"
+            ],
             "settings": {
-                "foreground": "#2fcc66",
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Single Quotes",
-            "scope": "string.quoted.single",
-            "settings": {
-                "foreground": "#2fcc66",
-                "fontStyle": ""
+                "foreground": "#9ab1b0"
             }
         },
         {
@@ -398,7 +447,7 @@
             "name": "JSON String",
             "scope": "meta.structure.dictionary.json string.quoted.double.json",
             "settings": {
-                "foreground": "#2fcc66"
+                "foreground": "#9ab1b0"
             }
         },
         {
