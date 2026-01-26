@@ -4,16 +4,16 @@
         "https://www.schemastore.org/yamllint.json": "file:///c%3A/Users/cstat/calc-grocery/data/codex.yaml"
     },
     "workbench.colorCustomizations": {},
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            // {
-            //     "name": "Comments",
-            //     "scope": "comment.line",
-            //     "settings": {
-            //         "foreground": "#53796c",
-            //         "fontStyle": "italic"
-            //     }
-            // }
-        ],
-    }
+    // "editor.tokenColorCustomizations": {
+    //     "textMateRules": [
+    //         {
+    //             "name": "Comments",
+    //             "scope": "source.python",
+    //             "settings": {
+    //                 "foreground": "#52ce86",
+    //                 "fontStyle": ""
+    //             }
+    //         }
+    //     ],
+    // }
 }

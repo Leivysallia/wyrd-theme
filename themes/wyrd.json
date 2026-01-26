@@ -89,6 +89,20 @@
             }
         },
         {
+            "scope": "support.type",
+            "settings": {
+                "foreground": "#ee6e6e",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "support.type.property-name",
+            "settings": {
+                "foreground": "#5ea375",
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": [
                 "keyword.control",
                 "keyword.operator.unary"
@@ -278,8 +292,7 @@
             "name": "Python - meta",
             "scope": "source.python",
             "settings": {
-                "foreground": "#89f1d7",
-                "fontStyle": ""
+                "foreground": "#52ce86"
             }
         },
         {
@@ -411,7 +424,6 @@
         {
             "name": "Library class/type",
             "scope": [
-                "support.type",
                 "support.class"
             ],
             "settings": {
