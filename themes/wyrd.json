@@ -313,7 +313,8 @@
             "name": "Built-in constant",
             "scope": "constant.language",
             "settings": {
-                "foreground": "#ff8181"
+                "foreground": "#ff8181",
+                "fontStyle": "italic"
             }
         },
         {
